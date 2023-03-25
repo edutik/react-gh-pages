@@ -1,7 +1,7 @@
 {
   "name": "istudy-app",
   "version": "0.1.0",
-  "homepage": "https://edutik.github.io/react-gh-pages",
+  "homepage": "https://edutik.github.io/react-gh-pages/",
   "private": true,
   "dependencies": {
     "@styled-icons/material-outlined": "^10.47.0",
